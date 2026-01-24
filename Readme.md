@@ -99,13 +99,8 @@ Karthik:-Data collection,Database integration, data storage & extraction, model 
 Surya:-	, data validation, EDA, model training
 
 Sai Eswar:-	Data preprocessing, feature engineering, model training
-🚀 Impact & Business Value
 
-✔ Reduces loan default risk
 
-✔ Improves credit decision accuracy
+Made a dynamic dashboard using streamlit wherein different categorical columns are checked against the default
 
-✔ Scalable for real-world financial systems
-
-✔ Suitable for banks, NBFCs, and fintech platforms
 
