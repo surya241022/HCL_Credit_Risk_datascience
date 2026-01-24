@@ -92,6 +92,8 @@ Model Performance Comparison
 
 👥 Team Contributions
 Name	Responsibility
+
+
 Karthik:-Data collection,Database integration, data storage & extraction, model training
 
 Surya:-	, data validation, EDA, model training
@@ -106,3 +108,4 @@ Sai Eswar:-	Data preprocessing, feature engineering, model training
 ✔ Scalable for real-world financial systems
 
 ✔ Suitable for banks, NBFCs, and fintech platforms
+
