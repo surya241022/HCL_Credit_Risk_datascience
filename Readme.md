@@ -90,16 +90,6 @@ Feature Importance
 
 Model Performance Comparison
 
-👥 Team Contributions
-Name	Responsibility
-
-
-Karthik:-Data collection,Database integration, data storage & extraction, model training
-
-Surya:-	, data validation, EDA, model training
-
-Sai Eswar:-	Data preprocessing, feature engineering, model training
-
 
 Made a dynamic dashboard using streamlit wherein different categorical columns are checked against the default
 
